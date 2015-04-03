@@ -225,7 +225,7 @@ div.menu ul {
 }
 
 div.menu ul a {
-    color: #F0F0F0 !important;
+    color: #8a8a8a !important;
 }
 
 div.menu ul a.hover {
@@ -605,7 +605,7 @@ td.tcat {
 }
 
 td.thead {
-    background-color: #000000 !important;
+    background-color: #292929 !important;
     background-image: none !important;
     border-radius: 0px !important;
     border-style: none !important;
