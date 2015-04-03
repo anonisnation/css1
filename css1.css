@@ -256,7 +256,7 @@ div.navigation a {
 }
 div.pm_alert {
 	font-size: 11px !important;
-    background-color: #202020 !important;
+    background-color: #333333 !important;
     border-bottom: 1px solid #61a859 !important;
     border-radius: 0 !important;
     border-top: 1px solid #61a859 !important;
@@ -670,7 +670,7 @@ ul.shadetabs {
     padding-left: 10px !important;
     padding-right: 10px !important;
     padding-top: 20px !important;
-    background-color: #202020 !important;
+    background-color: #333333 !important;
 }
 
 a.usercp_nav_item {
